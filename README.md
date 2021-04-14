@@ -9,3 +9,5 @@ To import bookmarks from most browsers, like Firefox, Internet Explorer, and Saf
 
 
 tis was taken from https://support.google.com/chrome/answer/96816?hl=en
+
+also many of the bookmarklets are not mine so i give credit to the people who created the bookmarklets 
